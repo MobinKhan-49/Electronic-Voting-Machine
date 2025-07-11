@@ -1,1 +1,1 @@
-# Electronic-Voting-Machine
+This experiment is implemented on PROTEUS version 8.0 and the circuit was constructed by using basic logic gates, IC’s and switches. It can detect if any voter tries to give vote twice, thus make it more efficient and effective. We can change the circuit accordingly to the number of voters of any certain area. However, it is crucial to address concerns related to security, verifiability, accessibility, and public perception to ensure the integrity and acceptance of EVMs as a reliable voting technology. 
